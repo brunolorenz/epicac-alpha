@@ -1,12 +1,13 @@
-Vento solar
+vento solar
 estrelas do mar
-A terra azul
+a terra azul
 a cor do seu vestido
-Vento solar
+vento
+solar
 estrelas do mar
 Você ainda quer
 morar comigo?
-Se eu cantar,
+se eu cantar,
 não chore não,
 é só poesia
 Eu só
@@ -152,7 +153,7 @@ Das coisas que aprendi
 Nos discos
 Quero lhe contar
 como eu vivi
-Tudo o que aconteceu 
+Tudo o que aconteceu
 comigo
 Viver é melhor que sonhar
 Eu sei que o amor
